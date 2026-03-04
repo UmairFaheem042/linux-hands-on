@@ -1,0 +1,5 @@
+Objective: Find all .log files in /var/log/myapp/ older than 7 days, compress them into a .tar .gz archive and move them to a backup directory.
+
+After moving the logs, the script should verify the file exists in the destination before deleting the original.
+
+Have to run this script daily at 2:00 AM.
