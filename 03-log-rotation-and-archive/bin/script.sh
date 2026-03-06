@@ -2,6 +2,8 @@
 
 set -euo pipefail
 
-main(){}
+main(){
+    
+}
 
 main
